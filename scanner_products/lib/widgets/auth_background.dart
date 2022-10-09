@@ -16,6 +16,7 @@ class AuthBackground extends StatelessWidget {
     );
   }
 
+  // ignore: non_constant_identifier_names
   SafeArea _HeaderIcon() {
     return SafeArea(
       child: Container(

@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
         'flutter': (_) => const HomeFlutter(),
         'login': (_) => const LoginScreen(),
         'home': (_) => const HomeScreen(),
+        'product': (_) => const ProductScreen(),
       },
     );
   }

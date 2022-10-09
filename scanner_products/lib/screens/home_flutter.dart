@@ -13,6 +13,7 @@ class HomeFlutter extends StatefulWidget {
 class _HomeFlutterState extends State<HomeFlutter> {
   @override
   void initState() {
+    // ignore: todo
     // TODO: implement initState
     Timer(const Duration(seconds: 3), openFlutter);
     super.initState();
